@@ -2,7 +2,7 @@ import React from 'react'
 import LandingPage from './LandingPage'
 import HomeCare from './HomeCare'
 import Login from './LoginPage'
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route,Navigate } from "react-router-dom";
 
 
 function App() {
